@@ -6,7 +6,6 @@ cache:
     - "node_modules"
 install:
   - yarn install # npm ci
-  - yarn build
 script:
   - chmod u+x deploy.sh
   - bash ./deploy.sh
