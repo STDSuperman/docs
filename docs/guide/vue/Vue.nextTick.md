@@ -1,5 +1,7 @@
 ## Vue.nextTick源码分析
 
+![](https://my-blog-1257398419.cos.ap-chengdu.myqcloud.com/blog/6.jpg)
+
 ## 前言
 > 众所周知，随着 `Vue` 技术的越来越热，大量的前端开发者开始探究这门神奇的框架，笔者也是从 `JQuery` 时代一脚迈进了 `Vue` 的世界。谈到`Vue`，在这呢，就不得不提一下笔者在研究一个`Vue`项目的时候碰到的问题，父组件修改标志位变量，而子组件的相应组件并没有显示，后来通过多方研究，发现了 `Vue.nextTick`这个原型方法可以达到我想要的这个效果，所以笔者今天也来谈谈这个神奇的方法。
 
@@ -244,5 +246,5 @@ export const nextTick=(function () {
   }
 })()
 ```
-
+![](https://my-blog-1257398419.cos.ap-chengdu.myqcloud.com/blog/7.jpg)
 > 好啦本文暂时介绍到这里，如果发现笔者写的不对的地方，欢迎给笔者留言。
