@@ -9,10 +9,10 @@ module.exports = {
                 rel: 'icon',
                 href: `/logo.png`,
             },
-            ['meta', { name: 'theme-color', content: '#3eaf7c' }],
-            ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-            ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-            ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
+            // ['meta', { name: 'theme-color', content: '#3eaf7c' }],
+            // ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
+            // ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+            // ['meta', { name: 'msapplication-TileColor', content: '#000000' }]
         ],
     ],
     dest: './docs/.vuepress/dist',
