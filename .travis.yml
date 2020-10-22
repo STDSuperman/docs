@@ -1,10 +1,15 @@
 language: node_js
 node_js:
   - lts/*
+cache:
+  directories:
+    - "node_modules"
 install:
   - yarn install # npm ci
+  - yarn build
 script:
-  - ./deploy.sh
+  - chmod u+x deploy.sh
+  - bash ./deploy.sh
 # deploy:
 #   provider: pages
 #   skip_cleanup: true
