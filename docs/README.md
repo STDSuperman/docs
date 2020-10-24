@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /favicon.ico
+heroImage: https://my-blog-1257398419.cos.ap-chengdu.myqcloud.com/blog/favicon.png
 actionText: 开始阅读 →
 actionLink: /guide/
 # features:
