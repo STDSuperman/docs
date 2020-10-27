@@ -1,2 +1,2 @@
-# VuePress
-个人vuepress写作项目
+# Blog
+陌小路的个人博客
