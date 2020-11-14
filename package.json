@@ -10,9 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "vuepress-plugin-comment": "^0.7.3"
-  },
+  "dependencies": {},
   "devDependencies": {
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",

@@ -166,20 +166,6 @@ module.exports = {
           return moment(timestamp).format('YYYY/MM/DD, H:MM:SS');
         }
       }
-    ],
-    [
-      'vuepress-plugin-comment',
-      {
-        choosen: 'gitalk',
-        options: {
-          clientID: 'f65140629ca5954b2fea',
-          clientSecret: '4a62837d24f65040f94067ec48431002cb0bb275',
-          repo: 'docs',
-          owner: 'STDSuperman',
-          admin: ['STDSuperman'],
-          distractionFreeMode: false
-        }
-      }
     ]
   ]
 }
