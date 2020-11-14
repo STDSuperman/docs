@@ -1,7 +1,7 @@
 module.exports = [
     { text: '首页', link: '/' },
-    { text: '前端', link: '/pages/7b1e86/', items: [
-        { text: '前端专区', link: '/pages/7b1e86/', items: [
+    { text: '技术', link: '/pages/7b1e86/', items: [
+        { text: '技术专区', link: '/pages/7b1e86/', items: [
             { text: '面试', link: '/pages/7b1e86/'},
             { text: 'Vue', link: '/pages/cae655/'},
             { text: 'Electron', link: '/pages/7d9966/'},

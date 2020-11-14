@@ -7,4 +7,4 @@ categories:
 tags:
   - 
 ---
-[花裤衩大佬收藏夹](https://panjiachen.github.io/awesome-bookmarks/)
+[花裤衩](https://panjiachen.github.io/awesome-bookmarks/)
