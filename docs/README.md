@@ -10,5 +10,5 @@ features:
   details: 时刻保持学习的能力
 - title: 座右铭
   details: 把每件事做到极致
-footer: MIT License | Copyright (c) 2020 STDSuperman
+# footer: MIT License | Copyright (c) 2020 STDSuperman
 ---
