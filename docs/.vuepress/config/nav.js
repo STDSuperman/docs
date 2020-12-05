@@ -5,6 +5,9 @@ module.exports = [
             { text: '面试', link: '/pages/7b1e86/'},
             { text: 'Vue', link: '/pages/cae655/'},
             { text: 'Electron', link: '/pages/7d9966/'},
+            { text: 'TypeScript', link: '/pages/8cab7b/'},
+            { text: 'Serverless', link: '/pages/b0e98d/'},
+            { text: 'GraphQL', link: '/pages/dcc257/'},
         ]}
     ]},
     { text: '时光漫谈', link: '/pages/4f099a/', items: [
