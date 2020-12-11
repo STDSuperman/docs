@@ -14,3 +14,5 @@ tags:
 [35岁之后又该何去何从](https://i5ting.github.io/How-to-learn-node-correctly/#101)
 
 [在阿里一年，我颠覆了曾经坚信不疑的技术思维...](https://mp.weixin.qq.com/s/K_yRMj45mSA7XyIo6PsQKA)
+
+[前端生态圈的年度生态圈排名](https://risingstars.js.org/2019/zh)
