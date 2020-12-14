@@ -125,6 +125,8 @@ module.exports = {
       ]
     }],
 
+    "vuepress-plugin-cat", // 可爱的猫咪
+
     'vuepress-plugin-baidu-autopush', // 百度自动推送
 
     ['one-click-copy', { // 代码块复制按钮
