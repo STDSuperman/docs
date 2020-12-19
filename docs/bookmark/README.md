@@ -18,3 +18,33 @@ tags:
 [前端生态圈的年度生态圈排名](https://risingstars.js.org/2019/zh)
 
 [程序员的自我修养](https://www.kancloud.cn/kancloud/a-programmer-prepares/78160)
+
+[阮一峰 ECMAScript 6 (ES6) 标准入门教程 第三版](https://www.bookstack.cn/read/es6-3rd/spilt.7.docs-proposals.md)
+
+
+## 算法
+
+[领扣](www.lintcode.com)
+
+[力扣](leetcode-cn.com)
+
+[洛谷](www.luogu.com.cn)
+
+[TopCoder](www.topcoder.com)
+
+## 接单
+
+[程序员客栈](www.proginn.com)
+
+[码市](codemart.com/developers)
+
+[猴急送](www.yuanjisong.com/job)
+
+[开源众包](zb.oschina.net)
+
+[实现网](shixian.com)
+
+[猪八戒](shenyang.zbj.com)
+
+[码易众包](www.mayigeek.com)
+
