@@ -13,10 +13,10 @@ module.exports = {
             collapsable: true, // 可折叠
             children: [
                 'vue/Vue.nextTick',
-                'vue/vue3-beta',
-                'vue/vite',
-                'vue/vuex-01',
-                'vue/vuex-02'
+                'vue/Vue3-beta',
+                'vue/Vite',
+                'vue/Vuex-01',
+                'vue/Vuex-02'
             ]
         }, {
             title: 'Electron专题',
