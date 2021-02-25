@@ -14,6 +14,7 @@ module.exports = [
         { text: '我的秋招之旅', link: '/pages/4f099a/'},
         { text: '2019年终总结', link: '/pages/50b2d2/'},
     ]},
+    { text: '代办计划', link: '/todo/' },
     { text: '收藏夹', link: '/bookmark/' },
     { text: '关于', link: '/about/' }
 ]
