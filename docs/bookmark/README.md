@@ -25,7 +25,10 @@ tags:
 
 ## 网站收藏
 [教学网站-写代码啦](https://xiedaimala.com/)
+
 [webpack5](https://webpack.js.org/)
+
+[工具网站-简历制作](https://www.canva.cn)
 
 ## 面试题汇总
 
