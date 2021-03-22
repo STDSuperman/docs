@@ -14,7 +14,8 @@ tags:
 
 - `Go`语言学习
 
-- `NestJS`项目实战
+- `NestJS`
+  - 项目实战
 - `ORM`框架深入
   - `Prisma`
   - `TypeORM`
@@ -30,5 +31,9 @@ tags:
 
 - 打包工具
   - `Rollup`
+  - `webpack5`深入理解
+
+- 编译相关
+  - `babel`编译
 
 - `Flutter`（emmm...，找时间重新捡起来吧）
