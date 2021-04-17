@@ -37,6 +37,8 @@ tags:
 
 [adoptopenjdk](https://adoptopenjdk.net/)
 
+[JDK下载地址](https://bell-sw.com/pages/downloads/)
+
 ## 面试题汇总
 
 [Front-End-Interview-Notebook](https://github.com/CavsZhouyou/Front-End-Interview-Notebook)
