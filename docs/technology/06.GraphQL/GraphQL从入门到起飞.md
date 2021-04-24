@@ -34,7 +34,7 @@ tags:
 
 从服务端维护的角度来说，对于多个接口，不管是否有存在接口字段重合的情况，我们总是需要编写接口独立的文档用以前端人员的使用，这在很多场景下是十分不友好的。
 
-![概览](https://s3.ax1x.com/2020/11/22/DGdlp4.png)
+![概览](https://blog-images-1257398419.cos.ap-nanjing.myqcloud.com/GraphQL/gailan.png)
 
 ## 优势
 
@@ -74,7 +74,7 @@ tags:
 
 提到这一点，就不得不说起`N+1`的问题了，那么什么是`N+1`问题呢？举个栗子：
 
-![数据库映射关系](https://s3.ax1x.com/2020/11/18/Dn4v9S.png)
+![数据库映射关系](https://blog-images-1257398419.cos.ap-nanjing.myqcloud.com/GraphQL/N%2B1.png)
 
 ```javascript
 const allUser = [{id: 1}, {id: 2}, {id: 3}}]
@@ -134,7 +134,7 @@ allUser.forEach(item => {
 
 ## 核心概念
 
-![核心概念](https://s3.ax1x.com/2020/11/20/DQvBGD.md.png)
+![核心概念](https://blog-images-1257398419.cos.ap-nanjing.myqcloud.com/GraphQL/core.png)
 
 ### Schema
 
@@ -268,7 +268,7 @@ input myInput {
 
 ### Query
 
-![工作流](https://i1.wp.com/blog.logrocket.com/wp-content/uploads/2020/01/graphql-subscriptions-high-level-overview.png?resize=730%2C397&ssl=1)
+![工作流](https://blog-images-1257398419.cos.ap-nanjing.myqcloud.com/GraphQL/query.png)
 
 从这里开始就准备开始接触实际的操作了，`Query`就对比于`RESTful`来说就类似于`Router`，它是作为入口提供给客户端调用查询数据的。
 
@@ -436,7 +436,7 @@ mutation {
 
 ### 实战
 
-![工作流](https://www.datastax.com/sites/default/files/inline-images/GraphQL-2.png)
+![工作流](https://blog-images-1257398419.cos.ap-nanjing.myqcloud.com/GraphQL/practice.png)
 
 #### Server端
 
@@ -545,7 +545,7 @@ app.listen(4000, () => console.log('listening port: 4000'));
 
 然后我们看看如何借助`graphiql`工具调试我们的服务吧：
 
-![调试界面](https://s3.ax1x.com/2020/11/20/DMaJsS.png)
+![调试界面](https://blog-images-1257398419.cos.ap-nanjing.myqcloud.com/GraphQL/graphiql.png)
 
 这里可见有中间两部分分别对应请求和响应，右侧还有一个侧边栏，相当于文档，如果这个字段是对象，还可以继续点进去看它包含的字段有哪些。
 
