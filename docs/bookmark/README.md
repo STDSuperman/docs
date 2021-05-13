@@ -55,6 +55,7 @@ tags:
 
 [node-interview](https://github.com/ElemeFE/node-interview/tree/master/sections/zh-cn)
 
+[高频面试知识点](https://bitable.feishu.cn/app8Ok6k9qafpMkgyRbfgxeEnet?table=tblEnSV2PNAajtWE&view=vewJHSwJVd)
 ## 算法
 
 [领扣](www.lintcode.com)
